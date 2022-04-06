@@ -7,7 +7,7 @@
 //GET - Coleta o valor setado 
 
 
-//Processo 
+//Processo alterado teste 1
 
 
 //1. Carro irá definir sentido de rotação e acelerar até próximo ao local onde a telha será coletada
