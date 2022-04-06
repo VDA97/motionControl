@@ -6,7 +6,7 @@
 
 #define UART_BAUD 115200 //Valor de velocidade da comunicação serial
 #define bufferSize 255 //Tamanho do buffer
-
+//Alteração esp
 //Constantes para conexão do ESP no wifi local
 
 const char *ssid = "Projeto_Hidroponia"; // Your ROUTER SSID
